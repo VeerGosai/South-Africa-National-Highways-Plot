@@ -19,3 +19,5 @@ This Python script is designed to plot highways in South Africa from a GeoJSON f
 - **`geojson_to_svg(geojson, scale, translate, svg_size)`**:
   - Converts the GeoJSON data into SVG path data, handling `MultiLineString` geometries for highways.
   - Creates a polyline for each line segment and adds it to an SVG file.
+ 
+  
